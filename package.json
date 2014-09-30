@@ -1,0 +1,25 @@
+{
+  "name": "translit-ru-ua",
+  "version": "1.0.1",
+  "description": "RU/UA -> EN transliteration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iliakan/translit-ru-ua"
+  },
+  "devDependencies": {
+    "should": "*"
+  },
+  "keywords": [
+    "translit"
+  ],
+  "author": "Ilya Kantor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliakan/translit-ru-ua/issues"
+  },
+  "homepage": "https://github.com/iliakan/translit-ru-ua"
+}
